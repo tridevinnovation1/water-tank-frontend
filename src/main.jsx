@@ -11,7 +11,7 @@ import 'typeface-poppins';
 // import Contact from './screens/client/Contact/Contact.jsx';
 // import RentNow from './screens/client/RentNow/RentNow.jsx';
 // import ProductDetails from './screens/client/ProductDetails/ProductDetails.jsx';
-// import Dashboard from './screens/admin/Dashboard.jsx';
+// import Dashboard from './screens/admin/Dashboard.jsx'; .
 
 const role = "client"//admin
 
